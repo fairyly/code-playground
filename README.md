@@ -7,6 +7,8 @@
 - [jsfiddle](https://jsfiddle.net/)
 - [codepen](https://codepen.io/pen/)
 - [jsbin](http://jsbin.com/?html,js,output)
+- [liveweave](https://liveweave.com/)
 - [Google Code Playground](https://developers.google.com/apis-explorer/?csw=1#p/)
 - [sololearn](https://code.sololearn.com/#html)
 - [JSRUN 对比 jsfiddle,jsbin,codepen,runjs](http://jsrun.net/note/nkKKp)
+- [What is a code playground](https://www.cnblogs.com/guohu/p/9012513.html)
