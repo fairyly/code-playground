@@ -13,3 +13,5 @@
 - [sololearn](https://code.sololearn.com/#html)
 - [JSRUN 对比 jsfiddle,jsbin,codepen,runjs](http://jsrun.net/note/nkKKp)
 - [What is a code playground](https://www.cnblogs.com/guohu/p/9012513.html)
+
+- [nginx-playground](https://nginx-playground.wizardzines.com/)
